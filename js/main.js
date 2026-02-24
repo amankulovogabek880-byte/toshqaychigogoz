@@ -42,7 +42,7 @@ selectBtns.forEach(btn => {
         else {
             computerWin++;
             computerEl.textContent = computerWin;
-            resultText.textContent = " Kompyuter yutdi!";
+            resultText.textContent = "💻 Kompyuter yutdi!";
         }
     });
 });
